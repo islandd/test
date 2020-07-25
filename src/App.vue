@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-     <h2>21212121eeeea</h2>
+     <h2>2121212</h2>
      <h3>111111111<h3>
      <p v-html="msg"></p>
   </div>
